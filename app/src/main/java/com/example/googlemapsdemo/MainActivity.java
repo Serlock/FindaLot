@@ -48,7 +48,7 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
     private Button btnCreateLot, btnFindalot, btnLeaveLot;
-    FusedLocationProviderClient fusedLocationProviderClient;
+    FusedLocationProviderClient fusedLocationProviderClient; //this is a trial comment
 
     private RequestQueue requestQueue;
     private TextView textView;
